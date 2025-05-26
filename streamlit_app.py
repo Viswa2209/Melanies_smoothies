@@ -1,6 +1,4 @@
-pip install snowflake-connector-python==2.8.3
-pip uninstall snowflake
-# Import python packages
+import python packages
 import streamlit as st
 from snowflake.snowpark.functions import col
 
