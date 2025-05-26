@@ -1,3 +1,5 @@
+pip show snowflake-snowpark-python
+pip show snowflake-connector-python
 # Import python packages
 import streamlit as st
 from snowflake.snowpark.functions import col
