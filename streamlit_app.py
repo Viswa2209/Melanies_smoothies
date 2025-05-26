@@ -1,7 +1,6 @@
 # Import python packages
 import streamlit as st
-from snowflake.snowpark.functions import col
-from snowflake.snowpark.functions import when_matched
+from snowflake.snowpark.functions import col, when_matched
 
 helpful_links = [
     "https://docs.streamlit.io",
